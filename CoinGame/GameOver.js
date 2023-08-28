@@ -12,5 +12,5 @@ function gameOver(score) {
   playAgain.addEventListener("click", function () {
     playGame();
   });
-  root.appendChild(playAgain);
+  root.appendChild(playAgainw);
 }
